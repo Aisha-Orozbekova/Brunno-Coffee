@@ -20,4 +20,4 @@ The page is also ready for GitHub Pages: publish this folder from the repository
 
 BRUNO Coffee and its business details are fictional. Replace the sample address, opening hours, prices, email, social links, and map location with verified information before using the page for a real business. The contact form is front-end only; connect it to a backend or form service if submissions should be received.
 
-Photos are loaded from Unsplash and require an internet connection. Each image element has a neutral background color behind it so the layout remains usable if an image cannot load. Google Fonts are also optional; Georgia and system sans-serif fallbacks are provided.
+Photos are stored in `images/` and served locally. Google Fonts are optional; Georgia and system sans-serif fallbacks are provided.
